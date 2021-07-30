@@ -5,7 +5,7 @@ programa
 	{
 		para(inteiro x=1;x<80;x++)
 			{
-				escreva("☻")//ASCII
+				escreva("☺")//ASCII
 			}
 	}
 }
@@ -14,7 +14,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 86; 
+ * @POSICAO-CURSOR = 81; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
